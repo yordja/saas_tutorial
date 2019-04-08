@@ -8,6 +8,7 @@ gem 'rails', '5.0.0'
 gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.6'
+gem 'bootstrap-sass', '3.3.7'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '3.0.0'
 # Use CoffeeScript for .coffee assets and views
